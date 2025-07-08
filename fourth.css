@@ -1,3 +1,11 @@
 img{
     width: 100px;
 }
+
+p{
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(174, 143, 245);
+    background-color: rgb(165, 40, 9);
+
+}
